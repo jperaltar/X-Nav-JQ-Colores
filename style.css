@@ -1,0 +1,12 @@
+html {
+  font-style: Verdana Sans-Serif;
+}
+
+li {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+li:last-child:hover {
+  color: green !important;
+}
